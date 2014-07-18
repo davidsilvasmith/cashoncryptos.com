@@ -8,7 +8,7 @@ permalink: /
     <a href="http://vip.marketfy.com/bitcoin/"><span class="link_fill"> </span></a>
     <h1>Dave unhappily wrote code everyday</h1>
     <p class="lead">Bitcoin put him on an enjoyable 2-year retirement track.</p>
-    <p><a class="btn btn-lg btn-success" href="http://vip.marketfy.com/bitcoin/" role="button"><i class="fa fa-info-circle"></i> Learn more!</a></p>
+    <p><a class="btn btn-lg btn-success" href="/investment-advice/" role="button"><i class="fa fa-info-circle"></i> Learn more!</a></p>
 </div>
 <div class='row'>
     <div class='span12'>
