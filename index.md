@@ -6,8 +6,8 @@ permalink: /
 
 <div class="jumbotron">
     <a href="http://vip.marketfy.com/bitcoin/"><span class="link_fill"> </span></a>
-    <h1><i class="fa fa-btc"></i>itcoin may be the best investment of our life. </h1>
-    <p class="lead">I'm going to retire from my bitcoin investment.</p>
+    <h1>Dave unhappily wrote code everyday</h1>
+    <p class="lead">Bitcoin put him on an enjoyable 2-year retirement track.</p>
     <p><a class="btn btn-lg btn-success" href="http://vip.marketfy.com/bitcoin/" role="button"><i class="fa fa-info-circle"></i> Learn more!</a></p>
 </div>
 <div class='row'>
