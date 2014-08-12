@@ -20,7 +20,8 @@ gulp.task('less', function () {
 });
 
 gulp.task('crush', function () {
-    return gulp.src('./images/**/*')
+  var formats = ['images/**/*.png', 'images/**/*.jpg', 'images/**/*.svg'];
+    return gulp.src(formats)
         .pipe(imagemin({
             progressive: true,
             svgoPlugins: [{removeViewBox: false}],
