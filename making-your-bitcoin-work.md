@@ -32,7 +32,7 @@ permalink: /making-your-bitcoin-work/
 		</div>
 	</div>
 	<div class="col-md-4">
-		<img src="/images/davesmith.jpg" class="person"/>
+		<img src="/images/daveSmith.jpg" class="person"/>
 		<div>David Smith</div>
 		<div>Moderator</div>
 		<div class="bio">
