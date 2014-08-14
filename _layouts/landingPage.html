@@ -23,10 +23,10 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
     <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
-    <link rel="image_src" href="/images/img_src.png" />
+    <link rel="image_src" href="/images/framed-btc-jam-cropped2.png" />
     <meta property="og:title" content="{{page.title}}" />
     <meta property="og:url" content="{{site.url}}{{page.url}}" />
-    <meta property="og:image" content="{{site.url}}/images/img_src.png" />
+    <meta property="og:image" content="{{site.url}}/images/framed-btc-jam-cropped2.png" />
     <meta property="og:description" content="{{ page.title }}" />
     <title>{{ page.title }}</title>
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -44,11 +44,11 @@
 <body>
     <div class="container">
         {{ content }}
+        <footer>
+            <div>© {{ site.time | date: "%Y" }} Cash on Cryptos LLC</div>
+        </footer>
     </div>
-    <footer>
-        <div>© {{ site.time | date: "%Y" }} Cash on Cryptos LLC</div>
-        <div>Photo Credit: <a href="https://www.flickr.com/photos/68751915@N05/6551520247">Money Graph</a> by <a href="http://www.401kcalculator.org/">401kcalculator</a> is licensed under CC BY-SA 2.0</div>
-    </footer>
+
     <script src="/scripts/jquery-1.8.2.min.js"></script>
     <script src="/scripts/bootstrap.min.js"></script>
     <script src="/scripts/custom.js"></script>
