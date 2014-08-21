@@ -15,7 +15,7 @@ permalink: /making-your-bitcoin-work/thanks/
 
 		<p>You will receive a confirmation email soon.</p>
 		<p><strong>Free bonus offer</strong> David Smith's e-book: "How I Will Retire In Two Years By Investing In Bitcoin"<a class="btn btn-lg btn-success" href="http://vip.marketfy.com/bitcoin/" style="margin:1em 1em 1em 2em;" role="button">Download Now!</a></p>
-		<p>See you Wednesday August 27th 8:00 PM Eastern Time!</p>
+		<p>See you Wednesday September 3rd 8:00 PM Eastern Time!</p>
 		<p>P.S. invite friends to join you <a href="http://twitter.com/home?status=I'm%20attending%20http://www.cashoncrytptos.com/making-your-bitcoin-work"><i class="fa fa-twitter"></i> Twitter</a> or <a href="http://www.facebook.com/sharer.php?u=http://www.cashoncryptos.com/making-your-bitcoin-work"><i class="fa fa-facebook-square"></i> Facebook</a></p>
 	</div>
 	<div class="col-md-6" style="padding-right:0px;">
