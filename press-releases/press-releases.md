@@ -6,4 +6,4 @@ permalink: /press-releases/
 
 #Press Releases
 
-8/15/2014 - [High Returns in a Flat Market](high-returns-in-a-flat-market.pdf)
+Check for press releases at [Bitcoin Bulls](http://www.bitcoinbulls.net) or [So What's Bitcoin](http://www.sowhatsbitcoin.com)

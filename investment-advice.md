@@ -12,14 +12,12 @@ Bitcoin could be so important that I think everyone ***needs*** to know about it
 
 Read my full story here:
 
-[How I will Reitre in Two Years By Investing in Bitcoin](http://vip.marketfy.com/bitcoin/) it contains:
+[How I will Retire in Two Years By Investing in Bitcoin](http://vip.marketfy.com/bitcoin/) it contains:
 
  * How I made a 19x return in 4 months.
  * How my bitcoins paid me dividends while I held them.
  * How I secure my bitcoins.
 
-Sign up for my newsletter here, [My free bitcoin newsletter](http://www.marketfy.com/product/cash-on-cryptos/) it contains:
+Sign up for my newsletter here, [My free bitcoin newsletter](http://www.bitcoinbulls.net//) it contains:
 
- * Weekly watch - upcoming important bitcoin news.
  * Analytical bitcoin articles.
- * Weekly recap - the most important news from the week.
